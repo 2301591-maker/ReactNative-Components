@@ -24,45 +24,45 @@ import VirtList from './VirtualizedList';
 export default function App() {
   return (
   <>
-  {/* <ActIndi /> */}
+  <ActIndi />
   
-  {/* <Btn /> */}
+  <Btn />
 
-  {/* <DisplayAnImage /> */}
+  <DisplayAnImage />
 
-  {/* <ImgBG /> */}
+  <ImgBG />
 
-  {/* <KeyboardAvoidingComponent /> */}
+  <KeyboardAvoidingComponent />
 
-  {/* <Mod /> */}
+  <Mod />
 
-  {/* <Press /> */}
+  <Press />
 
-  {/* <Refresh /> */}
+  <Refresh />
 
-  {/* <Scroll /> */}
+  <Scroll />
 
-  {/* <Sec /> */}
+  <Sec />
 
-  {/* <List /> */}
+  <List />
 
-  {/* <Stat /> */}
+  <Stat />
 
-  {/* <Swtch  /> */}
+  <Swtch  />
 
-  {/* <TextInANest /> */}
+  <TextInANest />
 
-  {/* <TextInputExample /> */}
+  <TextInputExample />
   
-  {/* <TouchableHighlightExample /> */}
+  <TouchableHighlightExample />
   
-  {/* <TouchOppa /> */}
+  <TouchOppa />
 
-  {/* <TouchableWithoutFeedbackExample /> */}
+  <TouchableWithoutFeedbackExample />
 
-  {/* <ViewBoxesWithColorAndText /> */}
+  <ViewBoxesWithColorAndText />
 
-  {/* <VirtList /> */}
+  <VirtList />
 
   </>
 
